@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@0;1&family=Poppins:wght@100;200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@0;1&family=KoHo:ital,wght@0,300;0,400;1,300&family=Poppins:wght@100;200;300;400&display=swap');
+
+p a {
+    text-decoration: none;
+    color: #41309B;
+}
+
+.top {
+    font-family: 'KoHo', sans-serif;
+    padding: 10px;
+}
+ body {
+    font-family: 'Nunito';
+}
+.text {
+    font-family: 'Courier Prime', monospace;
+    margin-top: 35%;
+}
+.section-top {
+    background-color: #41309B;
+    color: white;
+    /* height: 480px; */
+}
+.btn-class {
+    background-color: #3a7df8;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.lead a {
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+}
+.lead a:hover{
+    color: white;
+    padding: 12px;
+}
+.section-mid {
+    margin-top: 10%;
+    max-width: 100%;
+}
+.mid {
+    text-align: center;
+}
+.text2 {
+    font-family: 'Courier Prime', monospace;
+    margin-top: 10%;
+}
+.lists ul li {
+    display: inline-block;
+    font-weight: bold;
+    color: #8b78e8;
+    font-size: 20px;
+}
+ul li{
+    display: inline-block;
+}
+.back {
+    background-color: rgb(240, 240, 240);
+    height: 250px;
+    padding: 50px;
+}
+.form-container {
+    font-family: 'Poppins', sans-serif;
+    max-width: 30%;
+    margin: auto;
+    height: auto;
+    padding: 20px;
+    margin-top: 30px;
+}
+.footer {
+    font-size: smaller;
+    font-weight: bold;
+    padding: 4px;
+}
