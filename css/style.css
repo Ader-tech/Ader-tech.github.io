@@ -73,6 +73,6 @@ ul li{
 }
 .footer {
     font-size: smaller;
-    font-weight: bold;
+/*     font-weight: bold; */
     padding: 4px;
 }
