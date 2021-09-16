@@ -52,7 +52,6 @@ p a {
 }
 .lists ul li {
     display: inline-block;
-    font-weight: bold;
     color: #8b78e8;
     font-size: 20px;
 }
